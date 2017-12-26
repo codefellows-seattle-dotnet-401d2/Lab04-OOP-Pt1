@@ -11,17 +11,19 @@ This application is built to showcase the principal and importance of inheritanc
 3. Then add a derived class that may serve as an object to end the path of inheritance
 
 ## Example
-A diagram of how the classes are setup
+Base Class to Derived Class setup
 ![Alt text](Zoo-Diagram.png?raw=true "Optional Title")
+
+Tests to check for working inheritance
 ```c#
 show a working test case...
 ```
 
 ## Architecture
 This application is created using ASP.NET Core
-Language: C# 
-Type of Applicaiton: Console Application 
+- Language: C# 
+- Type of Applicaiton: Console Application 
 
 ## Change Log
-12-22-2017 1:30pm - Added classes and properties
-12-25-2017 8:oopm - Added passing Unit Tests
+- 12-22-2017 1:30pm - Added classes and properties
+- 12-25-2017 8:oopm - Added passing Unit Tests
