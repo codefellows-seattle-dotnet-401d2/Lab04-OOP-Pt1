@@ -14,9 +14,20 @@ This application is built to showcase the principal and importance of inheritanc
 Base Class to Derived Class setup
 ![Alt text](Zoo-Diagram.png?raw=true "Optional Title")
 
-Tests to check for working inheritance
+Passing Tests to check for working inheritance
 ```c#
-show a working test case...
+
+       [Fact]
+        public void CheckWestAfricanInheritance()
+        {
+            Assert.Equal("Lions live in Africa south of the Sahara Desert", WestAfrican.CheckLion());
+        }
+
+        [Fact]
+        public void CheckCapeZebraInheritance()
+        {
+            Assert.Equal("Zebras live in Africa!", Cape.CheckZebra());
+        }
 ```
 
 ## Architecture
