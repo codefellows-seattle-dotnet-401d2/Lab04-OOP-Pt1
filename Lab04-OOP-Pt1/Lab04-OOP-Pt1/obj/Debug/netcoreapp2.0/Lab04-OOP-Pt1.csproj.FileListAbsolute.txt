@@ -1,0 +1,8 @@
+C:\Users\nyque\source\repos\Lab04-OOP-Pt1\Lab04-OOP-Pt1\Lab04-OOP-Pt1\bin\Debug\netcoreapp2.0\Lab04-OOP-Pt1.deps.json
+C:\Users\nyque\source\repos\Lab04-OOP-Pt1\Lab04-OOP-Pt1\Lab04-OOP-Pt1\bin\Debug\netcoreapp2.0\Lab04-OOP-Pt1.runtimeconfig.json
+C:\Users\nyque\source\repos\Lab04-OOP-Pt1\Lab04-OOP-Pt1\Lab04-OOP-Pt1\bin\Debug\netcoreapp2.0\Lab04-OOP-Pt1.runtimeconfig.dev.json
+C:\Users\nyque\source\repos\Lab04-OOP-Pt1\Lab04-OOP-Pt1\Lab04-OOP-Pt1\bin\Debug\netcoreapp2.0\Lab04-OOP-Pt1.dll
+C:\Users\nyque\source\repos\Lab04-OOP-Pt1\Lab04-OOP-Pt1\Lab04-OOP-Pt1\obj\Debug\netcoreapp2.0\Lab04-OOP-Pt1.csprojResolveAssemblyReference.cache
+C:\Users\nyque\source\repos\Lab04-OOP-Pt1\Lab04-OOP-Pt1\Lab04-OOP-Pt1\obj\Debug\netcoreapp2.0\Lab04-OOP-Pt1.csproj.CoreCompileInputs.cache
+C:\Users\nyque\source\repos\Lab04-OOP-Pt1\Lab04-OOP-Pt1\Lab04-OOP-Pt1\obj\Debug\netcoreapp2.0\Lab04-OOP-Pt1.AssemblyInfoInputs.cache
+C:\Users\nyque\source\repos\Lab04-OOP-Pt1\Lab04-OOP-Pt1\Lab04-OOP-Pt1\obj\Debug\netcoreapp2.0\Lab04-OOP-Pt1.AssemblyInfo.cs
