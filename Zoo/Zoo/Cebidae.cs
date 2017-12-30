@@ -6,12 +6,24 @@ namespace Zoo
 {
     class Cebidae : Primates
     {
-        public bool PropertyOne { get; set; }
-        public bool PropertyTwo { get; set; }
-        public bool PropertyThree { get; set; }
+        public bool IsSleepy { get; set; }
+        //read a fun fact about a study where capuchin monkeys were taught how to use money as a medium of exchange.
+        public bool KnowsConceptOfMoney { get; set; }
+        public int NumOfFriends { get; set; }
 
-        public string FirstMethod() => "Carnivora method call 1.";
-        public string SecondMethod() => "Carnivora method call 2.";
-        public string ThirdMethod() => "Carnivora method call 3.";
+        public override string Communicate()
+        {
+            return "Cebidae communicate with sounds and gestures.";
+        }
+
+        public override string Travel()
+        {
+            return "Cebidae almost exclusively travel by trees.";
+        }
+
+        public override string UseTools()
+        {
+            return "Cebidae are capable of using simple tools to accomplish tasks.";
+        }
     }
 }

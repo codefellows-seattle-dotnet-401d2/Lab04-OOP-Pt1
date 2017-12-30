@@ -4,14 +4,16 @@ using System.Text;
 
 namespace Zoo
 {
-    class Hominidae : Primates
+    public class Hominidae : Primates
     {
-        public bool PropertyOne { get; set; }
-        public bool PropertyTwo { get; set; }
-        public bool PropertyThree { get; set; }
+        public bool HasTail { get; set; } = false;
+        public bool IsPregnant { get; set; }
+        public bool IsHungry { get; set; }
 
-        public string FirstMethod() => "Carnivora method call 1.";
-        public string SecondMethod() => "Carnivora method call 2.";
-        public string ThirdMethod() => "Carnivora method call 3.";
+        public override string Communicate() => "Hominidae can use speech or sign language to communicate.";
+
+        public override string UseTools() => "Hominidae can fashion advanced tools to assist with tasks.";
+
+        public override string Travel() => "Hominidae can climb up trees, but usually travel by ground.";
     }
 }

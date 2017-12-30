@@ -6,12 +6,23 @@ namespace Zoo
 {
     class Canidae : Carnivora
     {
-        public bool PropertyOne { get; set; }
-        public bool PropertyTwo { get; set; }
-        public bool PropertyThree { get; set; }
+        public new string Diet { get; set; } = "Mostly Meat";
+        public bool IsAlphaMale { get; set; }
+        public int PackSize { get; set; }
 
-        public string FirstMethod() => "Carnivora method call 1.";
-        public string SecondMethod() => "Carnivora method call 2.";
-        public string ThirdMethod() => "Carnivora method call 3.";
+        public override string Communicate()
+        {
+            return "Dog-like howl or bark.";
+        }
+
+        public override string Sleep()
+        {
+            return "Going to sleep.";
+        }
+
+        public override string Travel()
+        {
+            return "Travelling in a pack.";
+        }
     }
 }

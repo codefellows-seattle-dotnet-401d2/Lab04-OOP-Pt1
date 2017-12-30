@@ -1,7 +1,7 @@
 # Zoo Console App
 
 **Author**: Ariel R. Pedraza <br />
-**Version**: 0.8.0
+**Version**: 1.0.0
 
 ## Overview
 This application is an app that demonstrates OOP principles of Abstraction and Inheritance.

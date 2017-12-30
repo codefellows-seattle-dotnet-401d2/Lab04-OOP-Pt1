@@ -4,14 +4,14 @@ using System.Text;
 
 namespace Zoo
 {
-    class Carnivora : Mammalia
+    public abstract class Carnivora : Mammalia
     {
-        public bool PropertyOne { get; set; }
-        public bool PropertyTwo { get; set; }
-        public bool PropertyThree { get; set; }
+        public string Diet { get; set; } = "Usually meat.";
+        public bool Bipedal { get; set; } = false;
+        public int Weight { get; set; }
 
-        public string FirstMethod() => "Carnivora method call 1.";
-        public string SecondMethod() => "Carnivora method call 2.";
-        public string ThirdMethod() => "Carnivora method call 3.";
+        public string Hunt() => "Carnivora hunts with teeth and claws.";
+        public string Eat() => "Lets eat some meat!";
+        public abstract string Sleep();
     }
 }
