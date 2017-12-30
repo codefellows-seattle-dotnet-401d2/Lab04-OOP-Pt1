@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Zoo
 {
-    class Cebidae : Primates
+    public class Cebidae : Primates
     {
         public bool IsSleepy { get; set; }
         //read a fun fact about a study where capuchin monkeys were taught how to use money as a medium of exchange.

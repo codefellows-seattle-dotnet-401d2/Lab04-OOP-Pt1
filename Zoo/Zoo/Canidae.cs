@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Zoo
 {
-    class Canidae : Carnivora
+    public class Canidae : Carnivora
     {
         public new string Diet { get; set; } = "Mostly Meat";
         public bool IsAlphaMale { get; set; }
