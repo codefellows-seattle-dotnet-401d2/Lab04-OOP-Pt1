@@ -1,0 +1,11 @@
+C:\Users\pedra\Documents\codefellows\401\Lab04-OOP-Pt1\Zoo\Zoo\obj\Debug\netcoreapp2.0\Zoo.csprojResolveAssemblyReference.cache
+C:\Users\pedra\Documents\codefellows\401\Lab04-OOP-Pt1\Zoo\Zoo\obj\Debug\netcoreapp2.0\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\pedra\Documents\codefellows\401\Lab04-OOP-Pt1\Zoo\Zoo\obj\Debug\netcoreapp2.0\Zoo.AssemblyInfoInputs.cache
+C:\Users\pedra\Documents\codefellows\401\Lab04-OOP-Pt1\Zoo\Zoo\obj\Debug\netcoreapp2.0\Zoo.AssemblyInfo.cs
+C:\Users\pedra\Documents\codefellows\401\Lab04-OOP-Pt1\Zoo\Zoo\bin\Debug\netcoreapp2.0\Zoo.deps.json
+C:\Users\pedra\Documents\codefellows\401\Lab04-OOP-Pt1\Zoo\Zoo\bin\Debug\netcoreapp2.0\Zoo.runtimeconfig.json
+C:\Users\pedra\Documents\codefellows\401\Lab04-OOP-Pt1\Zoo\Zoo\bin\Debug\netcoreapp2.0\Zoo.runtimeconfig.dev.json
+C:\Users\pedra\Documents\codefellows\401\Lab04-OOP-Pt1\Zoo\Zoo\bin\Debug\netcoreapp2.0\Zoo.dll
+C:\Users\pedra\Documents\codefellows\401\Lab04-OOP-Pt1\Zoo\Zoo\bin\Debug\netcoreapp2.0\Zoo.pdb
+C:\Users\pedra\Documents\codefellows\401\Lab04-OOP-Pt1\Zoo\Zoo\obj\Debug\netcoreapp2.0\Zoo.dll
+C:\Users\pedra\Documents\codefellows\401\Lab04-OOP-Pt1\Zoo\Zoo\obj\Debug\netcoreapp2.0\Zoo.pdb
