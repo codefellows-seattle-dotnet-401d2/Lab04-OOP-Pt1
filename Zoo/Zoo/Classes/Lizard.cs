@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Zoo.Classes
 {
-    abstract class Lizard : Reptile
+    abstract public class Lizard : Reptile
     {
     }
 }

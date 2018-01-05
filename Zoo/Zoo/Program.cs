@@ -35,6 +35,7 @@ namespace Zoo
             Console.Read();
 
             Housecat Ferdinand = new Housecat();
+            Ferdinand.BornMsg();
             Ferdinand.Call();
 
             Console.Read();

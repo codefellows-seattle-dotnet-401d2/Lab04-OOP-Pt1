@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Zoo.Classes
 {
-    abstract class Reptile : Animal
+    abstract public class Reptile : Animal
     {
         override public string SkinTexture { get; set; } = "scales";
 

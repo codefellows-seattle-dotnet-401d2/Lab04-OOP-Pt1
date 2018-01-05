@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Zoo.Classes
 {
-    class Snake : Reptile
+    public class Snake : Reptile
     {
         public override string Food { get; set; } = "meat";
 
