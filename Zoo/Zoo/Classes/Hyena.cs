@@ -6,5 +6,7 @@ namespace Zoo.Classes
 {
     class Hyena : Canine
     {
+        public override string Name { get; set; } = "Giggles";
+        public override string Goes { get; set; } = "BWAHAHAHAHAHAA!";
     }
 }

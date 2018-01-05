@@ -6,11 +6,11 @@ namespace Zoo.Classes
 {
     abstract class Mammal : Animal
     {
-        override public string SkinTexture { get => SkinTexture; set => SkinTexture = value; } = "fur";
+        override public string SkinTexture { get; set; } = "fur";
 
-        override public bool LaysEggs { get => LaysEggs; set => LaysEggs = value; } = false;
+        override public bool LaysEggs { get; set; } = false;
 
-        override public bool WarmBlood { get => WarmBlood; set => WarmBlood = value; } = true;
+        override public bool WarmBlood { get; set; } = true;
 
     }
 }

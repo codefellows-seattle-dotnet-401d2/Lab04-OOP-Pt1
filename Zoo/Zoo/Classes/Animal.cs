@@ -6,10 +6,33 @@ namespace Zoo.Classes
 {
     abstract class Animal
     {
-        abstract public string SkinTexture { get => SkinTexture; set => SkinTexture = value; }
+        public void BornMsg()
+        {
+            Console.WriteLine(Name + " was born into the world!");
+        }
 
-        abstract public bool LaysEggs { get => LaysEggs; set => LaysEggs = value; }
+        public void Eat()
+        {
+            Console.WriteLine(Name + " munches on some " + Food);
+        }
 
-        abstract public bool WarmBlood { get => WarmBlood; set => WarmBlood = value; }
+        public void Call()
+        {
+            Console.WriteLine(Goes);
+        }
+
+        abstract public string Name { get; set; }
+
+        public virtual int Legs { get; set; } = 4;
+
+        abstract public string Food { get; set; }
+
+        abstract public string Goes { get; set; }
+
+        abstract public string SkinTexture { get; set; }
+
+        abstract public bool LaysEggs { get; set; }
+
+        abstract public bool WarmBlood { get; set; }
     }
 }

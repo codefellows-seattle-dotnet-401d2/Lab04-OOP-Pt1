@@ -6,5 +6,6 @@ namespace Zoo.Classes
 {
     class Panther : Feline
     {
+        public override string Name { get; set; } = "Pink";
     }
 }
