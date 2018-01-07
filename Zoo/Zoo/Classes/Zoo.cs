@@ -1,17 +1,11 @@
 ﻿using System;
 
 
-
 namespace Zoo
 {
 
     public abstract class ZooClass 
     {
-       /* public static void Main(string[] args)
-        {
-
-        }*/
-
         public bool Animals { get; set; }
 
         public bool GiftShop { get; set; }

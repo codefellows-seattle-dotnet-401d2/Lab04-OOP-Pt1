@@ -19,11 +19,6 @@ namespace Factory
             Console.WriteLine();
             var cape = new Cape();
 
-
-
-
-
-
             Console.ReadLine();
         }
 
