@@ -1,14 +1,16 @@
 ﻿using System;
 
+
+
 namespace Zoo
 {
 
-    public class ZooClass
+    public abstract class ZooClass 
     {
-        public static void Main(string[] args)
+       /* public static void Main(string[] args)
         {
 
-        }
+        }*/
 
         public bool Animals { get; set; }
 

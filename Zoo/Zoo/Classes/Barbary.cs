@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Zoo.Classes
 {
-    class Barbary : Lion
+    public class Barbary : Lion
     {
         public bool CriticallyEndangdered { get; set; }
 
@@ -25,6 +25,13 @@ namespace Zoo.Classes
         public void Drink()
         {
             Console.WriteLine("Barbary Lion drinks blood!");
+        }
+
+        public Barbary()
+        {
+            MoreEats();
+            Drink();
+            MoreSounds();
         }
     }
 }

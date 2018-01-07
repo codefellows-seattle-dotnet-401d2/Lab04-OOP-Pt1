@@ -31,5 +31,12 @@ namespace Zoo.Classes
         {
             return Location();
         }
+
+        public Cape()
+        {
+            MoreSounds();
+            MoreEats();
+            Drink();
+        }
     }
 }

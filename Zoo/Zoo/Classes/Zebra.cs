@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Zoo.Classes
 {
-    public class Zebra : Mammals
+    public abstract class Zebra : Mammals
     {
         public bool Stripes { get; set; }
 

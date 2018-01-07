@@ -26,5 +26,12 @@ namespace Zoo.Classes
         {
             Console.WriteLine("Congo Lion drinks blood!");
         }
+
+        public Congo()
+        {
+            MoreSounds();
+            MoreEats();
+            Drink();
+        }
     }
 }

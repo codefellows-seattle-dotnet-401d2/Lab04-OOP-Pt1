@@ -26,7 +26,13 @@ namespace Zoo.Classes
         {
             Console.WriteLine("Grevy Zebra drinks cold pressed juice");
         }
-       // return Zebra.Sound();
+       
+        public Grevy()
+        {
+            MoreEats();
+            MoreSounds();
+            Drink();
+        }
     }
-    //return Zebra.Sound();
+    
 }
