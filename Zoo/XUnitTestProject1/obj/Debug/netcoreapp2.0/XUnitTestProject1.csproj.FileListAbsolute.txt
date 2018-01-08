@@ -11,3 +11,6 @@ M:\OneDrive\Documents\Projects\Lab04-OOP-Pt1\Zoo\XUnitTestProject1\obj\Debug\net
 M:\OneDrive\Documents\Projects\Lab04-OOP-Pt1\Zoo\XUnitTestProject1\obj\Debug\netcoreapp2.0\XUnitTestProject1.csproj.CoreCompileInputs.cache
 M:\OneDrive\Documents\Projects\Lab04-OOP-Pt1\Zoo\XUnitTestProject1\obj\Debug\netcoreapp2.0\XUnitTestProject1.AssemblyInfoInputs.cache
 M:\OneDrive\Documents\Projects\Lab04-OOP-Pt1\Zoo\XUnitTestProject1\obj\Debug\netcoreapp2.0\XUnitTestProject1.AssemblyInfo.cs
+M:\OneDrive\Documents\Projects\Lab04-OOP-Pt1\Zoo\XUnitTestProject1\bin\Debug\netcoreapp2.0\XUnitTestProject1.pdb
+M:\OneDrive\Documents\Projects\Lab04-OOP-Pt1\Zoo\XUnitTestProject1\obj\Debug\netcoreapp2.0\XUnitTestProject1.dll
+M:\OneDrive\Documents\Projects\Lab04-OOP-Pt1\Zoo\XUnitTestProject1\obj\Debug\netcoreapp2.0\XUnitTestProject1.pdb

@@ -10,6 +10,7 @@
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "15.5.0",
           "Zoo": "1.0.0",
+          "xunit": "2.3.1",
           "xunit.runner.visualstudio": "2.3.1"
         },
         "runtime": {
