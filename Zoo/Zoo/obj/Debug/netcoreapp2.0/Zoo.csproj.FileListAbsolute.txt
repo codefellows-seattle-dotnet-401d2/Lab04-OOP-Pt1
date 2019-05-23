@@ -1,0 +1,11 @@
+C:\Users\jeffmartinez\source\repos\Lab04-OOP-Pt1\Zoo\Zoo\bin\Debug\netcoreapp2.0\Zoo.deps.json
+C:\Users\jeffmartinez\source\repos\Lab04-OOP-Pt1\Zoo\Zoo\bin\Debug\netcoreapp2.0\Zoo.runtimeconfig.json
+C:\Users\jeffmartinez\source\repos\Lab04-OOP-Pt1\Zoo\Zoo\bin\Debug\netcoreapp2.0\Zoo.runtimeconfig.dev.json
+C:\Users\jeffmartinez\source\repos\Lab04-OOP-Pt1\Zoo\Zoo\bin\Debug\netcoreapp2.0\Zoo.dll
+C:\Users\jeffmartinez\source\repos\Lab04-OOP-Pt1\Zoo\Zoo\obj\Debug\netcoreapp2.0\Zoo.csprojResolveAssemblyReference.cache
+C:\Users\jeffmartinez\source\repos\Lab04-OOP-Pt1\Zoo\Zoo\obj\Debug\netcoreapp2.0\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\jeffmartinez\source\repos\Lab04-OOP-Pt1\Zoo\Zoo\obj\Debug\netcoreapp2.0\Zoo.AssemblyInfoInputs.cache
+C:\Users\jeffmartinez\source\repos\Lab04-OOP-Pt1\Zoo\Zoo\obj\Debug\netcoreapp2.0\Zoo.AssemblyInfo.cs
+C:\Users\jeffmartinez\source\repos\Lab04-OOP-Pt1\Zoo\Zoo\bin\Debug\netcoreapp2.0\Zoo.pdb
+C:\Users\jeffmartinez\source\repos\Lab04-OOP-Pt1\Zoo\Zoo\obj\Debug\netcoreapp2.0\Zoo.dll
+C:\Users\jeffmartinez\source\repos\Lab04-OOP-Pt1\Zoo\Zoo\obj\Debug\netcoreapp2.0\Zoo.pdb
